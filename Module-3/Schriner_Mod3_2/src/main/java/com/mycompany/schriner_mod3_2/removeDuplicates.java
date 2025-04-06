@@ -8,7 +8,9 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jason
+ * Jason Schriner
+ * Module 3.2
+ * 4/6/25
  */
 public class removeDuplicates {
     
