@@ -26,12 +26,7 @@ public class TraversalTime {
        while (it.hasNext()){
            it.next();
        }
-        
-       // Traverse the LinkedList using get(index)
-       for (int i = 0; i < list.size(); i++) {
-           list.get(i); 
-       } 
-       
+               
        // Get the end time
        long endTime = System.nanoTime();
        
