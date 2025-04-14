@@ -35,7 +35,7 @@ public class ReadFile {
 
 /*
 * I had trouble at first because what I was doing was reading each entire line and then working with a line as an element in
-* the list. I initially tried a treeset and it may have worked if I had discovered that it was not the way I was sorting the list but
-* the way I was sorting it. I was able to find the split method here https://www.w3schools.com/java/ref_string_split.asp to split the string in
+* the list. Instead of each word in the line as it's own element. I initially tried a treeset and it may have worked if I had discovered that it was not the way I was sorting the list but
+* the way I was reading it. I was able to find the split method here https://www.w3schools.com/java/ref_string_split.asp to split the string in
 * order to read individual words so that I was now sorting the words and not and entire string of words. 
 */
