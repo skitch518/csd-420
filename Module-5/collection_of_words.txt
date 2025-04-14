@@ -1,2 +1,9 @@
-apple, banana, cherry, grape, mango, orange, peach, pear, plum, strawberry, watermelon, lemon, lime, kiwi, pineapple, blueberry, raspberry, blackberry, apricot, avocado, cucumber, tomato, papaya, watermelon, carrot, potato, onion, spinach, lettuce, broccoli, cabbage, corn, zucchini, eggplant, dog, cat, bird, fish, rabbit, hamster, lion, tiger, bear, elephant, giraffe, zebra, horse, monkey, chicken, cow, sheep, goat, duck, frog, chair, table, sofa, couch, bed, lamp, shelf, cabinet, desk, mirror, cup, plate, bowl, spoon, fork, knife, glass, mug, pitcher, vase, towel, blanket, pillow, rug, carpet, curtain, door, window, light, phone, laptop, tablet, television, radio, camera, watch, clock, speaker, printer, keyboard, mouse, charger, headphones, USB, hard drive, projector, calculator, backpack, wallet, suitcase, umbrella, backpack, pen, pencil, eraser, notebook, paper, binder, stapler, scissors, tape, glue, ruler, marker, highlighter, chalk, sketchbook, easel, frame,
+apple, banana, cherry, grape, mango, orange, peach, pear, plum, strawberry, watermelon, lemon, lime, kiwi, pineapple,
+ blueberry, raspberry, blackberry, apricot, avocado, cucumber, tomato, papaya, watermelon, carrot, potato, onion, spinach,
+ lettuce, broccoli, cabbage, corn, zucchini, eggplant, dog, cat, bird, fish, rabbit, hamster, lion, tiger, bear, elephant,
+ giraffe, zebra, horse, monkey, chicken, cow, sheep, goat, duck, frog, chair, table, sofa, couch, bed, lamp, shelf, cabinet,
+ desk, mirror, cup, plate, bowl, spoon, fork, knife, glass, mug, pitcher, vase, towel, blanket, pillow, rug, carpet, curtain,
+ door, window, light, phone, laptop, tablet, television, radio, camera, watch, clock, speaker, printer, keyboard, mouse,
+ charger, headphones, USB, hard drive, projector, calculator, backpack, wallet, suitcase, umbrella, backpack, pen, pencil,
+ eraser, notebook, paper, binder, stapler, scissors, tape, glue, ruler, marker, highlighter, chalk, sketchbook, easel, frame,
 brush, paint, canvas, easel, brush, easel, stapler
