@@ -39,5 +39,6 @@ public class BubbleSortWithComparable {
 /*
 * Bubble sort is a common technique for sorting so I was not sure how to make
 * it different from the class example. I followed instructions from
-* https://www.geeksforgeeks.org/bubble-sort-algorithm/ 
+* https://www.geeksforgeeks.org/bubble-sort-algorithm/ This exampple includes a boolean
+* value to end sorting if no element is swappet to increase efficiency 
 */
