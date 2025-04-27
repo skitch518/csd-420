@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.Circle?>
+
+<!-- Intellij defaults to VBox changed to HBox -->
+<HBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.schrinermodule7.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <children>
+        <!-- Created 4 circle elements Reference: -->
+        <!-- https://www.geeksforgeeks.org/javafx-circle-with-examples/ -->
+
+        <Circle fx:id="whiteCircle" radius="30"
+            styleClass="plaincircle"/>
+
+        <Circle fx:id="borderedCircle" radius="30"
+            styleClass="circleborder"/>
+
+        <Circle fx:id="redCircle" radius="30"
+            id="redcircle"/>
+
+        <Circle fx:id="greenCircle" radius="30"
+            id="greencircle"/>
+    </children>
+    <Label fx:id="welcomeText"/>
+
+</HBox>
