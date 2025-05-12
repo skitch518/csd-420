@@ -1,0 +1,6 @@
+The database is not set up to work with the code for testing
+
+What I was attempting to do is call a method UpdateRecord when a button updaterecord was clicked in that method it would
+take the values from text fields and enter those values into the database assuming the database had a auto incrementing primary key number
+
+Next the display record button should call a displayrecord function that takes the input from a text field and outputs the information from the database with the corresponding primary key number
